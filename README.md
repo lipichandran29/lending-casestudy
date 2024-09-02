@@ -2,9 +2,9 @@
 
 ##  Table of Contents
 * [General Information](##GeneralInformation)
-* [Technologies Used](*TechnologiesUsed)
-* [Conclusions](*Conclusions)
-* [Acknowledgements](*Acknowledgements)
+* [Technologies Used](##TechnologiesUsed)
+* [Conclusions](##Conclusions)
+* [Acknowledgements](##Acknowledgements)
 
 ## General Information
   ### Project Information
