@@ -1,7 +1,7 @@
 # Project Name: Lending Club Case Study
 
 ##  Table of Contents
-* [General Information](*GeneralInformation)
+* [General Information](##GeneralInformation)
 * [Technologies Used](*TechnologiesUsed)
 * [Conclusions](*Conclusions)
 * [Acknowledgements](*Acknowledgements)
