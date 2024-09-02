@@ -8,26 +8,27 @@
 
 ## General Information
   ### Project Information
-    The project is a data science project that uses the lending club data set to predict whether a loan will be defaulted or not.
+  The project is a data science project that uses the lending club data set to predict whether a loan will be defaulted or not.
 
   ### Project Background
-    This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower      interest rate loans through a fast online interface. Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss   
-    (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers 
-    who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+  This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate
+  loans through a fast online interface. Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss
+  is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to
+  the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 
   ### Project Statement
-    Find the driving factors which lead to the defaulted loans which are major source of loss for the company.
+  Find the driving factors which lead to the defaulted loans which are major source of loss for the company.
 
   ### Data Set
-    The data set is a csv file with the loan data for the Lending Club.
+  The data set is a csv file with the loan data for the Lending Club.
 
 ## Technologies Used
-    Python
-    Pandas
-    NumPy
-    Seaborn
-    MatplotLib
-    Plotly
+  * Python
+  * Pandas
+  * NumPy
+  * Seaborn
+  * MatplotLib
+  * Plotly
 
 ## Conclusions
   * Loans for small business, debt consolidation, and other purposes have the highest default rates, ranging from 15% to 27%.
